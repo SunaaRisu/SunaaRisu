@@ -1,4 +1,4 @@
-# 🏄‍♂️ Sunaa Risu
+# 🧑🏼‍💻 Sunaa Risu
 
 **`Student and Digital Craftsman`**
 
