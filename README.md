@@ -2,7 +2,7 @@
 
 **`Student and Digital Craftsman`**
 
-I'm studying Embedded Systems Engineering at the University of Freiburg. My main interests are embedded programming and graphics programming. Since it is sometimes required for some projects, I also learned some web development.
+I'm studying Embedded Systems Engineering at the University of Freiburg. My main interests are embedded programming and graphics programming. Since it is sometimes required for certain projects, I also learned some web development.
 
    <p align="left">
       <a href="https://github.com/SunaaRisu?tab=followers">
