@@ -36,7 +36,10 @@ I'm studying Embedded Systems Engineering at the University of Freiburg. My main
 ### 📊 Stats
 
 ![SunaaRisu's Stats](https://github-readme-stats.vercel.app/api?username=SunaaRisu&theme=gruvbox&show_icons=true&hide_border=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=SunaaRisu&theme=gruvbox&show_icons=true&hide_border=true&count_private=true" alt="SunaaRisu's GitHub Stats" />
 
 ![SunaaRisu's Streak](https://github-readme-streak-stats.herokuapp.com/?user=SunaaRisu&theme=gruvbox&hide_border=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SunaaRisu&theme=gruvbox&hide_border=true" alt="SunaaRisu's GitHub Stats" />
 
 ![SunaaRisu's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SunaaRisu&theme=gruvbox&show_icons=true&hide_border=true&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SunaaRisu&theme=gruvbox&show_icons=true&hide_border=true&layout=compact" alt="SunaaRisu's GitHub Stats" />
