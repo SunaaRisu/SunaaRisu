@@ -35,7 +35,7 @@ I'm studying Embedded Systems Engineering at the University of Freiburg. My main
 
 ### 📊 Stats
 <div width="100%" height="fit-content" display="flex" justify-content="center">
-   <img width="47%" src="https://github-readme-stats.vercel.app/api?username=SunaaRisu&theme=gruvbox&show_icons=true&hide_border=true&count_private=true" alt="SunaaRisu's GitHub Stats" />
-   <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=SunaaRisu&theme=gruvbox&hide_border=true" alt="SunaaRisu's GitHub Stats" />
+   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SunaaRisu&theme=gruvbox&show_icons=true&hide_border=true&count_private=true" alt="SunaaRisu's GitHub Stats" />
+   <img width="51%" src="https://github-readme-streak-stats.herokuapp.com/?user=SunaaRisu&theme=gruvbox&hide_border=true" alt="SunaaRisu's GitHub Stats" />
    <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SunaaRisu&theme=gruvbox&show_icons=true&hide_border=true&layout=compact" alt="SunaaRisu's GitHub Stats" />
 </div>
